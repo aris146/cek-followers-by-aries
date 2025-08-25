@@ -9,4 +9,5 @@
 - Buat repository baru di GitHub
 - Upload file index.html dan README.md
 - Masuk Settings -> Pages -> pilih branch main -> folder root
-- Akses via https://github.com/aris146/cek-followers-by-aries.git
+- Akses via https://aris146.github.io/cek-followers-by-aries/
+
